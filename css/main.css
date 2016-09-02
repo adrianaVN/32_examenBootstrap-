@@ -6,8 +6,9 @@
 .mt-3{
 	margin-top: 2%;
 }
-.mt{
-	margin-top: 10%;
+.mtb{
+	margin-top: 5%;
+	margin-bottom: 2%;
 }
 .buscador{
 	margin-top: 6%;
@@ -20,6 +21,9 @@
 .ml{
 	margin-left: 9%;
 }
+.mt-30{
+	margin-top: 30%;
+}
 /* .ml-50{
 	margin-left: 40%;
 } */
@@ -28,4 +32,12 @@
 	background-size: cover;
 	background-repeat: no-repeat;
 	height: 400px;
+}
+iframe{
+	width: 100%;
+	border-style: none;
+	height:400px;
+}
+.imsl{
+	width: 50%;
 }
