@@ -1,0 +1,31 @@
+.fila{
+	display: inline-block
+	margin-top:2%;
+	margin-bottom: 2%;
+}
+.mt-3{
+	margin-top: 2%;
+}
+.mt{
+	margin-top: 10%;
+}
+.buscador{
+	margin-top: 6%;
+	margin-left: 8%;
+}
+.relog{
+	margin-top: 5%;
+	font-size: 300%;
+}
+.ml{
+	margin-left: 9%;
+}
+/* .ml-50{
+	margin-left: 40%;
+} */
+.im1{
+	background-image: url("../images/blog3.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 400px;
+}
